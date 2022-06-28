@@ -1,6 +1,6 @@
 here is a line
 
-here is another linemerge conflict!!!
+merge conflict!!!
 
 here is another line
 

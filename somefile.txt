@@ -1,3 +1,7 @@
 here is a line
 
+merge conflict!!!
+
 here is another line
+
+hi
